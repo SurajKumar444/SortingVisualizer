@@ -5,13 +5,13 @@
 
 </p>
 <h3 align="center">Sorting Algorithm Visualizer</h3>
-<h5 align="center">By Tejaswi</h5>
+<h5 align="center">By Suraj</h5>
 
 
 ## 😊Sorting Algorithm Visualizer ▶ [Try It Now](https://tejaswijadhav2003.github.io/Algorithm_Visualizer/)
 --------------------
 
-**_Sorting.Visualizer is a web application developed by AIT Pune student Tejaswi to visualise a variety of sorting algorithms._**
+**_Sorting.Visualizer is a web application developed by AIT Pune student Suraj to visualise a variety of sorting algorithms._**
 1. Selection Sort.
 2. Bubble Sort.
 3. Insertion Sort.
